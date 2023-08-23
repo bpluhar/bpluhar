@@ -1,4 +1,4 @@
-<h1 align="left">👋 My name is Brian Pluhar and I'm a backend web developer from Florida!</h1>
+<h2 align="left">👋 My name is Brian Pluhar and I'm a backend web developer from Florida!</h2>
 
 ###
 
