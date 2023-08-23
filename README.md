@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Emoji_u1f4a9.svg/1200px-Emoji_u1f4a9.svg.png"  />
+<img align="right" height="100" src="https://i.gifer.com/origin/cd/cd44334923c5a5d94e7cf4ab8f5f2f7f_w200.gif"  />
 
 ###
 
