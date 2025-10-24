@@ -15,6 +15,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,css,html,js,ts,cs,dotnet,swift,bash,supabase,appwrite,firebase,planetscale,vercel,aws,gcp,cloudflare,heroku,postgres,redis,unity,linux,docker,git,npm,pnpm&theme=dark" alt="nextjs, react, tailwind, css, html, js, ts, cs, dotnet, swift, bash, supabase, appwrite, firebase, planetscale, vercel, aws, gcp, cloudflare, heroku, postgres, redis, unity, linux, docker, git, npm, pnpm"  />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,css,html,js,ts,cs,dotnet,swift,bash,supabase,appwrite,firebase,planetscale,vercel,aws,gcp,cloudflare,heroku,postgres,redis,unity,linux,docker,git,npm,pnpm&theme=dark&perline=5" alt="nextjs, react, tailwind, css, html, js, ts, cs, dotnet, swift, bash, supabase, appwrite, firebase, planetscale, vercel, aws, gcp, cloudflare, heroku, postgres, redis, unity, linux, docker, git, npm, pnpm"  />
   
 </div>
