@@ -15,25 +15,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,css,html,js,ts,cs,dotnet,swift,bash,supabase,appwrite,firebase,planetscale,vercel,aws,gcp,cloudflare,heroku,postgres,redis,unity,linux,docker,git,npm,pnpm&perline=5" height="40" alt="nextjs, react, tailwind, css, html, js, ts, cs, dotnet, swift, bash, supabase, appwrite, firebase, planetscale, vercel, aws, gcp, cloudflare, heroku, postgres, redis, unity, linux, docker, git, npm, pnpm"  />
+  
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bpluhar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
